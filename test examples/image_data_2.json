@@ -1,0 +1,112 @@
+[
+    {
+        "caption": "Image 1",
+        "coordinates": [
+            50,
+            130,
+            151,
+            231
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 2",
+        "coordinates": [
+            202,
+            130,
+            303,
+            231
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 3",
+        "coordinates": [
+            354,
+            130,
+            455,
+            231
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 4",
+        "coordinates": [
+            506,
+            130,
+            607,
+            231
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 5",
+        "coordinates": [
+            50,
+            295,
+            151,
+            396
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 6",
+        "coordinates": [
+            202,
+            295,
+            303,
+            396
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 7",
+        "coordinates": [
+            354,
+            295,
+            455,
+            396
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 8",
+        "coordinates": [
+            506,
+            295,
+            607,
+            396
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 9",
+        "coordinates": [
+            50,
+            460,
+            151,
+            561
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 10",
+        "coordinates": [
+            202,
+            460,
+            303,
+            561
+        ],
+        "background_image": "1.png"
+    },
+    {
+        "caption": "Image 11",
+        "coordinates": [
+            354,
+            460,
+            455,
+            561
+        ],
+        "background_image": "1.png"
+    }
+]
