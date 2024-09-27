@@ -138,7 +138,7 @@ if __name__ == "__main__":
     json_file_path = '/Users/westyu/Desktop/cccjson/merged_unique_apps.json'  # JSON 文件路径
     apps = load_apps_as_objects(json_file_path)  # 加载 AppInfo 对象列表
 
-    # 询问用户是否要在图像上添加标题文字
+    
     user_input = input("add app name under the icon? (yes/no): ").strip().lower()
     add_text = user_input == "yes"
 
